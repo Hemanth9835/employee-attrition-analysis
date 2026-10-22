@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="720pt" viewBox="0 0 1152 720" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-22T22:48:50.281015</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 720
+L 1152 720
+L 1152 0
+L 0 0
+z
+" style="fill: #f5f7fb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 52.992 342.72
+L 546.048 342.72
+Q 559.872 342.72 559.872 334.08
+L 559.872 133.92
+Q 559.872 125.28 546.048 125.28
+L 52.992 125.28
+Q 39.168 125.28 39.168 133.92
+L 39.168 334.08
+Q 39.168 342.72 52.992 342.72
+z
+" clip-path="url(#pfe1450ecc3)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 605.952 342.72
+L 1099.008 342.72
+Q 1112.832 342.72 1112.832 334.08
+L 1112.832 133.92
+Q 1112.832 125.28 1099.008 125.28
+L 605.952 125.28
+Q 592.128 125.28 592.128 133.92
+L 592.128 334.08
+Q 592.128 342.72 605.952 342.72
+z
+" clip-path="url(#pfe1450ecc3)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 52.992 594.72
+L 546.048 594.72
+Q 559.872 594.72 559.872 586.08
+L 559.872 385.92
+Q 559.872 377.28 546.048 377.28
+L 52.992 377.28
+Q 39.168 377.28 39.168 385.92
+L 39.168 586.08
+Q 39.168 594.72 52.992 594.72
+z
+" clip-path="url(#pfe1450ecc3)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 605.952 594.72
+L 1099.008 594.72
+Q 1112.832 594.72 1112.832 586.08
+L 1112.832 385.92
+Q 1112.832 377.28 1099.008 377.28
+L 605.952 377.28
+Q 592.128 377.28 592.128 385.92
+L 592.128 586.08
+Q 592.128 594.72 605.952 594.72
+z
+" clip-path="url(#pfe1450ecc3)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #245dce; font: 700 10.8px 'DejaVu Sans'; text-anchor: start" x="46.08" y="41.326312" transform="rotate(-0 46.08 41.326312)">EMPLOYEE ATTRITION  /  PROJECT OVERVIEW</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #17263d; font: 700 27px 'DejaVu Sans'; text-anchor: start" x="46.08" y="77.395781" transform="rotate(-0 46.08 77.395781)">Statistical findings and their practical meaning</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #53657b; font: 12.5px 'DejaVu Sans'; text-anchor: start" x="46.08" y="100.218047" transform="rotate(-0 46.08 100.218047)">Evidence → interpretation → modelling action. Association does not establish causation.</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #245dce; font: 700 10.5px 'DejaVu Sans'; text-anchor: start" x="65.664" y="151.978359" transform="rotate(-0 65.664 151.978359)">01  HYPOTHESIS-TEST EXAMPLES</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #17263d; font: 700 15.4px 'DejaVu Sans'; text-anchor: start" x="65.664" y="178.741594" transform="rotate(-0 65.664 178.741594)">Group differences need context</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 207.877969)">Welch: salary and overtime differ by attrition</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 223.818041)">Travel association is weak (Cramér’s V = 0.057)</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 239.758112)">Department / attrition: no clear evidence at 5%</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 255.698184)">ANOVA: salary / overtime differ by department in leavers</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 271.638256)">One-sample tests use illustrative benchmarks.</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #137f78; font: 700 11.8px 'DejaVu Sans'; text-anchor: start" x="65.664" y="317.126156" transform="rotate(-0 65.664 317.126156)">Use tests to guide questions, not to delete predictors.</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #245dce; font: 700 10.5px 'DejaVu Sans'; text-anchor: start" x="618.624" y="151.978359" transform="rotate(-0 618.624 151.978359)">02  COLLINEARITY + GROUP TESTS</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #17263d; font: 700 15.4px 'DejaVu Sans'; text-anchor: start" x="618.624" y="178.741594" transform="rotate(-0 618.624 178.741594)">High VIF alone does not justify removal</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(618.624 207.877969)">Maximum VIF: 31.44; salary adjusted GVIF: 4.41</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(618.624 223.818041)">Joint job-level / salary LR-test: p ≈ 0.0001</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(618.624 239.758112)">Removing both reduced CV and validation AP</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(618.624 255.698184)">Separate predictors can share useful information.</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #137f78; font: 700 11.8px 'DejaVu Sans'; text-anchor: start" x="618.624" y="317.126156" transform="rotate(-0 618.624 317.126156)">Use regularization and verify predictive stability.</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #245dce; font: 700 10.5px 'DejaVu Sans'; text-anchor: start" x="65.664" y="403.978359" transform="rotate(-0 65.664 403.978359)">03  IMPORTANCE + REMOVAL CHECKS</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #17263d; font: 700 15.4px 'DejaVu Sans'; text-anchor: start" x="65.664" y="430.741594" transform="rotate(-0 65.664 430.741594)">Satisfaction and salary carry signal</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 459.877969)">RF permutation AP loss: job satisfaction 0.0187</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 475.818041)">Monthly salary 0.0141; environment 0.0098</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 491.758113)">Removing job or environment satisfaction</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(65.664 507.698184)">reduced CV AP in all five folds.</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #137f78; font: 700 11.8px 'DejaVu Sans'; text-anchor: start" x="65.664" y="569.126156" transform="rotate(-0 65.664 569.126156)">Judge importance using the model and removal tests.</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #245dce; font: 700 10.5px 'DejaVu Sans'; text-anchor: start" x="618.624" y="403.978359" transform="rotate(-0 618.624 403.978359)">04  ENGINEERING + SIMPLIFICATION</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #17263d; font: 700 15.4px 'DejaVu Sans'; text-anchor: start" x="618.624" y="430.741594" transform="rotate(-0 618.624 430.741594)">Added complexity gave inconsistent gains</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(618.624 459.877969)">Interactions: CV AP +0.0011; validation −0.0028</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(618.624 475.818041)">Three-feature removal: validation AP</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(618.624 491.758113)">0.2916 → 0.2925, a very small gain</text>
+    <text style="fill: #53657b; font: 13px 'DejaVu Sans'" transform="translate(618.624 507.698184)">Final candidates retain the original predictors.</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #137f78; font: 700 11.8px 'DejaVu Sans'; text-anchor: start" x="618.624" y="569.126156" transform="rotate(-0 618.624 569.126156)">Keep engineered / reduced variants as experiments.</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #53657b; font: 11.2px 'DejaVu Sans'; text-anchor: start" x="46.08" y="644.27025" transform="rotate(-0 46.08 644.27025)">Limits: eight illustrative tests used Holm adjustment. Raw-data EDA includes duplicates; independence and ANOVA assumptions</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #53657b; font: 11.2px 'DejaVu Sans'; text-anchor: start" x="46.08" y="662.99025" transform="rotate(-0 46.08 662.99025)">were not fully established. Reused validation and many feature comparisons limit certainty. These are exploratory findings.</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #245dce; font: 11.2px 'DejaVu Sans'; text-anchor: start" x="46.08" y="691.79025" transform="rotate(-0 46.08 691.79025)">AP = average precision. Importance and p-values are supporting evidence; practical precision–recall trade-offs drive selection.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfe1450ecc3">
+   <rect x="0" y="0" width="1152" height="720"/>
+  </clipPath>
+ </defs>
+</svg>

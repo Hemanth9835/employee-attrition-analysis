@@ -1,0 +1,57 @@
+{
+  "default_candidate": "Logistic regression",
+  "challenger": "Small NN (8 neurons)",
+  "selected_operating_point": null,
+  "reason_pending": "Agree on recall/alert budget; do not optimize thresholds using test data.",
+  "threshold_options_from_validation": {
+    "Logistic regression": {
+      "Default 0.50": 0.5,
+      "Validation recall target 40%": 0.24040021257044483,
+      "Validation recall target 60%": 0.169858385892937
+    },
+    "Small NN (8 neurons)": {
+      "Default 0.50": 0.5,
+      "Validation recall target 40%": 0.2472531894702069,
+      "Validation recall target 60%": 0.18782275579960767
+    }
+  },
+  "input_columns": [
+    "age",
+    "gender",
+    "marital_status",
+    "education",
+    "department",
+    "job_level",
+    "total_work_years",
+    "tenure",
+    "monthly_salary",
+    "salary_hike_pct",
+    "years_since_promotion",
+    "training_times",
+    "overtime_hours",
+    "travel_frequency",
+    "job_satisfaction",
+    "env_satisfaction",
+    "job_involvement",
+    "relationship_score",
+    "performance_rating",
+    "work_life_balance",
+    "commute_distance",
+    "num_companies",
+    "num_projects",
+    "late_count",
+    "leave_days"
+  ],
+  "positive_class": 1,
+  "trained_rows": 3000,
+  "test_already_evaluated": true,
+  "preprocessing_included": true,
+  "versions": {
+    "python": "3.11.4",
+    "pandas": "2.1.4",
+    "numpy": "1.26.4",
+    "sklearn": "1.3.0",
+    "scipy": "1.17.1",
+    "cloudpickle": "2.2.1"
+  }
+}

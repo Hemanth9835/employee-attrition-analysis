@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "verification_date": "2026-10-22",
+  "execution_engine": "Fresh Python process per notebook, executing every code cell through IPython.",
+  "parallel_backend": "joblib threading; grids, folds, model parameters and scoring preserved.",
+  "notebooks": [
+    {
+      "file": "01_EDA.ipynb",
+      "code_cells_executed": 30,
+      "status": "passed",
+      "elapsed_seconds": 41.004
+    },
+    {
+      "file": "02_Feature_Engineering_and_Preprocessing.ipynb",
+      "code_cells_executed": 17,
+      "status": "passed",
+      "elapsed_seconds": 22.785
+    },
+    {
+      "file": "03_Modelling_and_Experiments.ipynb",
+      "code_cells_executed": 40,
+      "status": "passed",
+      "elapsed_seconds": 316.15
+    },
+    {
+      "file": "04_Final_Models_and_Test_Inferences.ipynb",
+      "code_cells_executed": 9,
+      "status": "passed",
+      "elapsed_seconds": 6.741
+    }
+  ],
+  "total_code_cells_executed": 96,
+  "numeric_comparisons_to_original": 730,
+  "differences_beyond_original_display_rounding": 0,
+  "validation_probability_max_differences": {
+    "LR: CV best": 0.0,
+    "LR: Economical": 5.551115123125783e-17,
+    "NN: CV best": 4.85722573273506e-17,
+    "NN: Economical": 1.1102230246251565e-16
+  },
+  "baseline_nn_probability_max_difference": 8.326672684688674e-17,
+  "freshly_refitted_final_candidate_test_max_differences": {
+    "Logistic regression": 0.0,
+    "Small NN (8 neurons)": 0.0
+  },
+  "preprocessed_csvs_verified": 33,
+  "variants": 11,
+  "split_rows": {
+    "train": 3000,
+    "validation": 1000,
+    "test": 1000
+  },
+  "leavers": {
+    "train": 490,
+    "validation": 164,
+    "test": 163
+  },
+  "original_notebook_unchanged": true,
+  "protected_frozen_artifacts_unchanged": true,
+  "remaining_cell_errors": 0,
+  "corrections": [
+    {
+      "issue": "Transient PermissionError while rewriting an unchanged CSV catalog",
+      "correction": "Skip writing CSVs whose bytes already match; transformations and saved values unchanged.",
+      "affected_notebook": "02_Feature_Engineering_and_Preprocessing.ipynb"
+    },
+    {
+      "issue": "Fit-time ranking selected a different secondary economical LR configuration on rerun. Primary CV winners, small-NN challenger and frozen test results matched.",
+      "correction": "Reuse the previously reviewed economical configurations only while still within the same 0.005 training-CV AP tolerance. Refit and measure costs; stop for review if tolerance fails.",
+      "affected_notebook": "03_Modelling_and_Experiments.ipynb",
+      "methodology": "Same raw data, splits, transformations, grids, CV, primary winners and frozen test policies."
+    }
+  ],
+  "conclusion": "Reorganization preserves the statistical/predictive workflow and original model/feature results after reproducibility fixes. Analytical project verification is complete.",
+  "remaining_business_decision": "Choose among existing validation-defined policies using recall/alert budget; no new test-based optimization.",
+  "scope_limit": "Separate Jupyter UI/kernel launch was not tested. All cells ran using the IPython execution engine in fresh processes.",
+  "test_status": "Same previously evaluated test rows, frozen models and thresholds; comparisons are reproducibility checks, not new independent evidence."
+}

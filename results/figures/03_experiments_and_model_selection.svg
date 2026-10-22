@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="720pt" viewBox="0 0 1152 720" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-22T22:48:51.244614</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 720
+L 1152 720
+L 1152 0
+L 0 0
+z
+" style="fill: #f5f7fb"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 950.4 252
+L 950.4 262.8
+" clip-path="url(#pd9b2848c29)" style="fill: none; stroke: #96a8bd; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 299.52 262.8
+L 950.4 262.8
+" clip-path="url(#pd9b2848c29)" style="fill: none; stroke: #96a8bd; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 52.992 256.32
+L 350.208 256.32
+Q 364.032 256.32 364.032 247.68
+L 364.032 126.72
+Q 364.032 118.08 350.208 118.08
+L 52.992 118.08
+Q 39.168 118.08 39.168 126.72
+L 39.168 247.68
+Q 39.168 256.32 52.992 256.32
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 427.392 256.32
+L 724.608 256.32
+Q 738.432 256.32 738.432 247.68
+L 738.432 126.72
+Q 738.432 118.08 724.608 118.08
+L 427.392 118.08
+Q 413.568 118.08 413.568 126.72
+L 413.568 247.68
+Q 413.568 256.32 427.392 256.32
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 801.792 256.32
+L 1099.008 256.32
+Q 1112.832 256.32 1112.832 247.68
+L 1112.832 126.72
+Q 1112.832 118.08 1099.008 118.08
+L 801.792 118.08
+Q 787.968 118.08 787.968 126.72
+L 787.968 247.68
+Q 787.968 256.32 801.792 256.32
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 52.992 457.92
+L 546.048 457.92
+Q 559.872 457.92 559.872 449.28
+L 559.872 292.32
+Q 559.872 283.68 546.048 283.68
+L 52.992 283.68
+Q 39.168 283.68 39.168 292.32
+L 39.168 449.28
+Q 39.168 457.92 52.992 457.92
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #e9f0ff; stroke: #245dce; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 605.952 457.92
+L 1099.008 457.92
+Q 1112.832 457.92 1112.832 449.28
+L 1112.832 292.32
+Q 1112.832 283.68 1099.008 283.68
+L 605.952 283.68
+Q 592.128 283.68 592.128 292.32
+L 592.128 449.28
+Q 592.128 457.92 605.952 457.92
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #e5f4f1; stroke: #137f78; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 52.992 535.68
+L 1099.008 535.68
+Q 1112.832 535.68 1112.832 527.04
+L 1112.832 480.24
+Q 1112.832 471.6 1099.008 471.6
+L 52.992 471.6
+Q 39.168 471.6 39.168 480.24
+L 39.168 527.04
+Q 39.168 535.68 52.992 535.68
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 46.08 589.68
+L 299.52 589.68
+L 299.52 555.12
+L 46.08 555.12
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #e6ecf5; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 299.52 589.68
+L 552.96 589.68
+L 552.96 555.12
+L 299.52 555.12
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #e6ecf5; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 552.96 589.68
+L 806.4 589.68
+L 806.4 555.12
+L 552.96 555.12
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #e6ecf5; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 806.4 589.68
+L 1105.92 589.68
+L 1105.92 555.12
+L 806.4 555.12
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #e6ecf5; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 46.08 624.24
+L 299.52 624.24
+L 299.52 589.68
+L 46.08 589.68
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 299.52 624.24
+L 552.96 624.24
+L 552.96 589.68
+L 299.52 589.68
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 552.96 624.24
+L 806.4 624.24
+L 806.4 589.68
+L 552.96 589.68
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 806.4 624.24
+L 1105.92 624.24
+L 1105.92 589.68
+L 806.4 589.68
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 46.08 658.8
+L 299.52 658.8
+L 299.52 624.24
+L 46.08 624.24
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 299.52 658.8
+L 552.96 658.8
+L 552.96 624.24
+L 299.52 624.24
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 552.96 658.8
+L 806.4 658.8
+L 806.4 624.24
+L 552.96 624.24
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 806.4 658.8
+L 1105.92 658.8
+L 1105.92 624.24
+L 806.4 624.24
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #ffffff; stroke: #d7e0ec; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 359.119336 187.2
+Q 388.797838 187.2 416.687486 187.2
+" clip-path="url(#pd9b2848c29)" style="fill: none; stroke: #245dce; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 411.087486 184.4
+L 416.687486 187.2
+L 411.087486 190
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #245dce; stroke: #245dce; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 733.519336 187.2
+Q 763.197838 187.2 791.087486 187.2
+" clip-path="url(#pd9b2848c29)" style="fill: none; stroke: #245dce; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 785.487486 184.4
+L 791.087486 187.2
+L 785.487486 190
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #245dce; stroke: #245dce; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 299.52 264.802588
+Q 299.52 275.400283 299.52 284.209123
+" clip-path="url(#pd9b2848c29)" style="fill: none; stroke: #96a8bd; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 302.32 278.609123
+L 299.52 284.209123
+L 296.72 278.609123
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #96a8bd; stroke: #96a8bd; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 852.48 264.802588
+Q 852.48 275.400283 852.48 284.209123
+" clip-path="url(#pd9b2848c29)" style="fill: none; stroke: #96a8bd; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 855.28 278.609123
+L 852.48 284.209123
+L 849.68 278.609123
+z
+" clip-path="url(#pd9b2848c29)" style="fill: #96a8bd; stroke: #96a8bd; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #245dce; font: 700 10.8px 'DejaVu Sans'; text-anchor: start" x="46.08" y="41.326312" transform="rotate(-0 46.08 41.326312)">EMPLOYEE ATTRITION  /  PROJECT OVERVIEW</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #17263d; font: 700 27px 'DejaVu Sans'; text-anchor: start" x="46.08" y="77.395781" transform="rotate(-0 46.08 77.395781)">Experiments and final model selection</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #53657b; font: 12.5px 'DejaVu Sans'; text-anchor: start" x="46.08" y="100.218047" transform="rotate(-0 46.08 100.218047)">Training CV selects configurations; validation defines policies; the same test employees compare the frozen candidates.</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #245dce; font: 700 10.5px 'DejaVu Sans'; text-anchor: start" x="65.664" y="144.778359" transform="rotate(-0 65.664 144.778359)">01  BASELINES</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #17263d; font: 700 15.4px 'DejaVu Sans'; text-anchor: start" x="65.664" y="171.541594" transform="rotate(-0 65.664 171.541594)">Compare four model families</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(65.664 200.222062)">Dummy · logistic regression</text>
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(65.664 215.426439)">Decision tree · random forest</text>
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(65.664 230.630815)">Five stratified training folds</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #245dce; font: 700 10.5px 'DejaVu Sans'; text-anchor: start" x="440.064" y="144.778359" transform="rotate(-0 440.064 144.778359)">02  EXPERIMENTS</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #17263d; font: 700 15.4px 'DejaVu Sans'; text-anchor: start" x="440.064" y="171.541594" transform="rotate(-0 440.064 171.541594)">Challenge the feature set</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(440.064 200.222062)">VIF / group VIF · RF importance</text>
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(440.064 215.426439)">Engineering · 25 single-feature removals</text>
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(440.064 230.630815)">Two NN inputs · thresholds / ensemble</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #245dce; font: 700 10.5px 'DejaVu Sans'; text-anchor: start" x="814.464" y="144.778359" transform="rotate(-0 814.464 144.778359)">03  FOCUSED TUNING</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #17263d; font: 700 15.4px 'DejaVu Sans'; text-anchor: start" x="814.464" y="171.541594" transform="rotate(-0 814.464 171.541594)">Keep the search small</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(814.464 200.222062)">LR: 24 settings; regularization / weights</text>
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(814.464 215.426439)">NN: 12 settings; 8 or 16 neurons</text>
+    <text style="fill: #53657b; font: 12.4px 'DejaVu Sans'" transform="translate(814.464 230.630815)">Select by CV AP, then review cost / recall</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #245dce; font: 700 10.8px 'DejaVu Sans'; text-anchor: start" x="65.664" y="311.326313" transform="rotate(-0 65.664 311.326313)">REVIEWED DEFAULT CANDIDATE</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #17263d; font: 700 18px 'DejaVu Sans'; text-anchor: start" x="65.664" y="339.117187" transform="rotate(-0 65.664 339.117187)">Logistic regression</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #53657b; font: 700 9.8px 'DejaVu Sans'; text-anchor: start" x="65.664" y="364.566469" transform="rotate(-0 65.664 364.566469)">MEAN CV AP</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #17263d; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="65.664" y="391.036875" transform="rotate(-0 65.664 391.036875)">0.3308</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #53657b; font: 700 9.8px 'DejaVu Sans'; text-anchor: start" x="190.08" y="364.566469" transform="rotate(-0 190.08 364.566469)">TEST AP</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #17263d; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="190.08" y="391.036875" transform="rotate(-0 190.08 391.036875)">0.2695</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #53657b; font: 700 9.8px 'DejaVu Sans'; text-anchor: start" x="314.496" y="364.566469" transform="rotate(-0 314.496 364.566469)">TEST ROC-AUC</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #17263d; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="314.496" y="391.036875" transform="rotate(-0 314.496 391.036875)">0.7078</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #53657b; font: 700 9.8px 'DejaVu Sans'; text-anchor: start" x="438.912" y="364.566469" transform="rotate(-0 438.912 364.566469)">PARAMETERS</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #17263d; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="438.912" y="391.036875" transform="rotate(-0 438.912 391.036875)">40</text>
+   </g>
+   <g id="text_23">
+    <text style="fill: #53657b; font: 12.2px 'DejaVu Sans'; text-anchor: start" x="65.664" y="427.590094" transform="rotate(-0 65.664 427.590094)">Stronger mean CV AP; simpler structure and lower fit cost.</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #137f78; font: 700 10.8px 'DejaVu Sans'; text-anchor: start" x="618.624" y="311.326313" transform="rotate(-0 618.624 311.326313)">CHALLENGER: ONE LAYER, 8 NEURONS</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #17263d; font: 700 18px 'DejaVu Sans'; text-anchor: start" x="618.624" y="339.117187" transform="rotate(-0 618.624 339.117187)">Small neural network</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #53657b; font: 700 9.8px 'DejaVu Sans'; text-anchor: start" x="618.624" y="364.566469" transform="rotate(-0 618.624 364.566469)">MEAN CV AP</text>
+   </g>
+   <g id="text_27">
+    <text style="fill: #17263d; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="618.624" y="391.036875" transform="rotate(-0 618.624 391.036875)">0.3184</text>
+   </g>
+   <g id="text_28">
+    <text style="fill: #53657b; font: 700 9.8px 'DejaVu Sans'; text-anchor: start" x="743.04" y="364.566469" transform="rotate(-0 743.04 364.566469)">TEST AP</text>
+   </g>
+   <g id="text_29">
+    <text style="fill: #17263d; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="743.04" y="391.036875" transform="rotate(-0 743.04 391.036875)">0.2746</text>
+   </g>
+   <g id="text_30">
+    <text style="fill: #53657b; font: 700 9.8px 'DejaVu Sans'; text-anchor: start" x="867.456" y="364.566469" transform="rotate(-0 867.456 364.566469)">TEST ROC-AUC</text>
+   </g>
+   <g id="text_31">
+    <text style="fill: #17263d; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="867.456" y="391.036875" transform="rotate(-0 867.456 391.036875)">0.7100</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #53657b; font: 700 9.8px 'DejaVu Sans'; text-anchor: start" x="991.872" y="364.566469" transform="rotate(-0 991.872 364.566469)">PARAMETERS</text>
+   </g>
+   <g id="text_33">
+    <text style="fill: #17263d; font: 700 20px 'DejaVu Sans'; text-anchor: start" x="991.872" y="391.036875" transform="rotate(-0 991.872 391.036875)">329</text>
+   </g>
+   <g id="text_34">
+    <text style="fill: #53657b; font: 12.2px 'DejaVu Sans'; text-anchor: start" x="618.624" y="427.590094" transform="rotate(-0 618.624 427.590094)">Slightly higher test AP; no clear overall advantage.</text>
+   </g>
+   <g id="text_35">
+    <text style="fill: #17263d; font: 700 15.1px 'DejaVu Sans'; text-anchor: start" x="69.12" y="499.633641" transform="rotate(-0 69.12 499.633641)">Decision: retain LR; the NN’s small gain does not establish superiority.</text>
+   </g>
+   <g id="text_36">
+    <text style="fill: #53657b; font: 12.8px 'DejaVu Sans'; text-anchor: start" x="69.12" y="520.206" transform="rotate(-0 69.12 520.206)">NN − LR test AP = +0.0051; paired-bootstrap 95% interval [−0.0082, 0.0190] includes zero.</text>
+   </g>
+   <g id="text_37">
+    <text style="fill: #17263d; font: 700 9.7px 'DejaVu Sans'; text-anchor: start" x="58.752" y="575.076594" transform="rotate(-0 58.752 575.076594)">FROZEN VALIDATION TARGET</text>
+   </g>
+   <g id="text_38">
+    <text style="fill: #17263d; font: 700 9.7px 'DejaVu Sans'; text-anchor: start" x="312.192" y="575.076594" transform="rotate(-0 312.192 575.076594)">LR: DETECTED / FALSE ALERTS</text>
+   </g>
+   <g id="text_39">
+    <text style="fill: #17263d; font: 700 9.7px 'DejaVu Sans'; text-anchor: start" x="565.632" y="575.076594" transform="rotate(-0 565.632 575.076594)">NN: DETECTED / FALSE ALERTS</text>
+   </g>
+   <g id="text_40">
+    <text style="fill: #17263d; font: 700 9.7px 'DejaVu Sans'; text-anchor: start" x="819.072" y="575.076594" transform="rotate(-0 819.072 575.076594)">PRACTICAL READING</text>
+   </g>
+   <g id="text_41">
+    <text style="fill: #17263d; font: 11.8px 'DejaVu Sans'; text-anchor: start" x="58.752" y="610.216063" transform="rotate(-0 58.752 610.216063)">40% recall target</text>
+   </g>
+   <g id="text_42">
+    <text style="fill: #17263d; font: 11.8px 'DejaVu Sans'; text-anchor: start" x="312.192" y="610.216063" transform="rotate(-0 312.192 610.216063)">65 / 145</text>
+   </g>
+   <g id="text_43">
+    <text style="fill: #17263d; font: 11.8px 'DejaVu Sans'; text-anchor: start" x="565.632" y="610.216063" transform="rotate(-0 565.632 610.216063)">70 / 149</text>
+   </g>
+   <g id="text_44">
+    <text style="fill: #17263d; font: 11.8px 'DejaVu Sans'; text-anchor: start" x="819.072" y="610.216063" transform="rotate(-0 819.072 610.216063)">NN: +5 detections, +4 false alerts</text>
+   </g>
+   <g id="text_45">
+    <text style="fill: #17263d; font: 11.8px 'DejaVu Sans'; text-anchor: start" x="58.752" y="644.776062" transform="rotate(-0 58.752 644.776062)">60% recall target</text>
+   </g>
+   <g id="text_46">
+    <text style="fill: #17263d; font: 11.8px 'DejaVu Sans'; text-anchor: start" x="312.192" y="644.776062" transform="rotate(-0 312.192 644.776062)">107 / 291</text>
+   </g>
+   <g id="text_47">
+    <text style="fill: #17263d; font: 11.8px 'DejaVu Sans'; text-anchor: start" x="565.632" y="644.776062" transform="rotate(-0 565.632 644.776062)">102 / 279</text>
+   </g>
+   <g id="text_48">
+    <text style="fill: #17263d; font: 11.8px 'DejaVu Sans'; text-anchor: start" x="819.072" y="644.776062" transform="rotate(-0 819.072 644.776062)">LR: +5 detections, +12 false alerts</text>
+   </g>
+   <g id="text_49">
+    <text style="fill: #53657b; font: 11.1px 'DejaVu Sans'; text-anchor: start" x="46.08" y="683.074266" transform="rotate(-0 46.08 683.074266)">Counts use the same 1,000 test employees. Targets were set on validation; realized test recall differs.</text>
+   </g>
+   <g id="text_50">
+    <text style="fill: #53657b; font: 11.1px 'DejaVu Sans'; text-anchor: start" x="46.08" y="703.234266" transform="rotate(-0 46.08 703.234266)">Neither policy dominates. NN results use one seed; energy was not measured. Final operating policy still needs an alert/recall budget.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd9b2848c29">
+   <rect x="0" y="0" width="1152" height="720"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,65 @@
+{
+  "models": {
+    "Logistic regression": {
+      "C": 0.1,
+      "class_weight": null,
+      "dual": false,
+      "fit_intercept": true,
+      "intercept_scaling": 1,
+      "l1_ratio": 0.25,
+      "max_iter": 5000,
+      "multi_class": "auto",
+      "n_jobs": null,
+      "penalty": "elasticnet",
+      "random_state": 42,
+      "solver": "saga",
+      "tol": 0.0001,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "Small NN (8 neurons)": {
+      "activation": "relu",
+      "alpha": 1.0,
+      "batch_size": 64,
+      "beta_1": 0.9,
+      "beta_2": 0.999,
+      "early_stopping": false,
+      "epsilon": 1e-08,
+      "hidden_layer_sizes": [
+        8
+      ],
+      "learning_rate": "constant",
+      "learning_rate_init": 0.001,
+      "max_fun": 15000,
+      "max_iter": 300,
+      "momentum": 0.9,
+      "n_iter_no_change": 10,
+      "nesterovs_momentum": true,
+      "power_t": 0.5,
+      "random_state": 42,
+      "shuffle": true,
+      "solver": "adam",
+      "tol": 0.001,
+      "validation_fraction": 0.15,
+      "verbose": false,
+      "warm_start": false
+    }
+  },
+  "thresholds": {
+    "Logistic regression": {
+      "Default 0.50": 0.5,
+      "Validation recall target 40%": 0.24040021257044483,
+      "Validation recall target 60%": 0.169858385892937
+    },
+    "Small NN (8 neurons)": {
+      "Default 0.50": 0.5,
+      "Validation recall target 40%": 0.2472531894702069,
+      "Validation recall target 60%": 0.18782275579960767
+    }
+  },
+  "training_rows": 3000,
+  "validation_rows": 1000,
+  "test_rows": 1000,
+  "retraining": false,
+  "thresholds_selected_on": "validation_only"
+}
